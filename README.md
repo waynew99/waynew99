@@ -1,5 +1,5 @@
 - 📚 I'm an undergraduate at Middlebury College.
-- 💻 Majoring in Computer Science. Working on research related to protocol stack security. Also minoring in Political Science and Mathematics.
+- 💻 Majoring in Computer Science. Working on research related to protocol stack security. Also minoring in Political Science.
 - 📱 Contact me at: sw@middlebury.edu
 
 <!---
