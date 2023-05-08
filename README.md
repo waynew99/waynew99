@@ -1,6 +1,5 @@
-- 📚 I'm an undergraduate at Middlebury College.
-- 💻 Majoring in Computer Science. Working on research related to protocol stack security. Also minoring in Political Science.
-- 📱 Contact me at: sw@middlebury.edu
+- Incoming CS PhD student at UMich
+- Research in Internet measurement and security
 
 <!---
 waynew99/waynew99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
