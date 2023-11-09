@@ -1,4 +1,4 @@
-- Incoming CS PhD student at UMich
+- CS PhD student at UMich
 - Research in Internet measurement and security
 
 <!---
